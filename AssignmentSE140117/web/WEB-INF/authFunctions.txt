@@ -1,0 +1,6 @@
+searchPage
+search
+search.jsp
+updateAccount
+deleteAccount
+logout
